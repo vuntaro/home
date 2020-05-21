@@ -1,0 +1,14 @@
+/* Code tidied up by ScrapBook */
+.custom-blog-list-left a:hover::after, .img-thumbnail-link:hover::before { animation: 0.8s ease 0s normal forwards infinite running anim-moema-1; }
+@keyframes anim-moema-1 {
+60% { transform: scale3d(0.8, 0.8, 1); }
+85% { transform: scale3d(1.1, 1.1, 1); }
+100% { transform: scale3d(1, 1, 1); }
+}
+@keyframes anim-moema-1 {
+60% { transform: scale3d(0.8, 0.8, 1); }
+85% { transform: scale3d(1.1, 1.1, 1); }
+100% { transform: scale3d(1, 1, 1); }
+}
+.img-thumbnail-link::before { content: ""; width: 30px; height: 30px; background-color: rgb(255, 255, 255); background-image: url("search_leaf.png"); background-repeat: no-repeat; background-attachment: scroll; background-clip: border-box; background-origin: padding-box; background-position: center center; background-size: 80% auto !important; border-radius: 100%; top: calc(50% - 15px); left: calc(50% - 15px); position: absolute; display: inline-block; border: 1px solid rgb(108, 183, 21); box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.8); opacity: 0; z-index: 10; }
+.img-thumbnail-link:hover::before { opacity: 1; }

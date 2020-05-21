@@ -1,0 +1,31 @@
+/* Code tidied up by ScrapBook */
+@font-face {
+  font-family: "Museo-100-Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("museo100-regular-webfont.eot") format("embedded-opentype"), url("museo100-regular-webfont.woff") format("woff"), url("museo100-regular-webfont.ttf") format("truetype"), url("museo100-regular-webfont.svg") format("svg");
+}
+@font-face {
+  font-family: "Museo-300-Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("museo300-regular-webfont.eot") format("embedded-opentype"), url("museo300-regular-webfont.woff") format("woff"), url("museo300-regular-webfont.ttf") format("truetype"), url("museo300-regular-webfont.svg") format("svg");
+}
+@font-face {
+  font-family: "Museo-500-Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("museo500-regular-webfont.eot") format("embedded-opentype"), url("museo500-regular-webfont.woff") format("woff"), url("museo500-regular-webfont.ttf") format("truetype"), url("museo500-regular-webfont.svg") format("svg");
+}
+@font-face {
+  font-family: "Museo-700-Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("museo700-regular-webfont.eot") format("embedded-opentype"), url("museo700-regular-webfont.woff") format("woff"), url("museo700-regular-webfont.ttf") format("truetype"), url("museo700-regular-webfont.svg") format("svg");
+}
+@font-face {
+  font-family: "Museo-900-Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("museo900-regular-webfont.eot") format("embedded-opentype"), url("museo900-regular-webfont.woff") format("woff"), url("museo900-regular-webfont.ttf") format("truetype"), url("museo900-regular-webfont.svg") format("svg");
+}

@@ -1,0 +1,16 @@
+/* Code tidied up by ScrapBook */
+.ui-slider { position: relative; text-align: left; }
+.ui-slider .ui-slider-handle { position: absolute; z-index: 2; width: 1.2em; height: 1.2em; cursor: default; touch-action: none; }
+.ui-slider .ui-slider-range { position: absolute; z-index: 1; font-size: 0.7em; display: block; border: 0px none; background-position: 0px 0px; }
+.ui-slider-horizontal { height: 0.8em; }
+.ui-slider-horizontal .ui-slider-handle { top: -0.3em; margin-left: -0.6em; }
+.ui-slider-horizontal .ui-slider-range { top: 0px; height: 100%; }
+.ui-widget { font-family: Arial,Helvetica,sans-serif; font-size: 1em; }
+.ui-widget.ui-widget-content { border: 1px solid rgb(197, 197, 197); }
+.ui-widget-content { border: 1px solid rgb(221, 221, 221); background: rgb(255, 255, 255) none repeat scroll 0% 0%; color: rgb(51, 51, 51); }
+.ui-widget-header { border: 1px solid rgb(221, 221, 221); background: rgb(233, 233, 233) none repeat scroll 0% 0%; color: rgb(51, 51, 51); font-weight: bold; }
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active { border: 1px solid rgb(197, 197, 197); background: rgb(246, 246, 246) none repeat scroll 0% 0%; font-weight: normal; color: rgb(69, 69, 69); }
+.ui-corner-all, .ui-corner-top, .ui-corner-left, .ui-corner-tl { border-top-left-radius: 3px; }
+.ui-corner-all, .ui-corner-top, .ui-corner-right, .ui-corner-tr { border-top-right-radius: 3px; }
+.ui-corner-all, .ui-corner-bottom, .ui-corner-left, .ui-corner-bl { border-bottom-left-radius: 3px; }
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br { border-bottom-right-radius: 3px; }
